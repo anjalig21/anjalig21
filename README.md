@@ -12,7 +12,7 @@
 
 ### GitHub Stats 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anjalig21&theme=highcontrast&show_icons=true&count_private=true&layout=compact)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalig21)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalig21&layout=compact)
 
 <!--
 **anjalig21/anjalig21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
