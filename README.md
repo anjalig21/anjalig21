@@ -1,9 +1,16 @@
-### Hi there, my name is Anjali! 👋
+### Hi there! 👋
 
 ### About Me 
-- 😄 Pronouns: She/Her
-- 👩🏽‍💻 I am a Web and Software Developer
-- 🎓 I am studying Computer Science at the University of Waterloo (Graduation: May 2025)
+```{
+  "name" : "Anjali Gupta",
+  "school" : "university of waterloo",
+  "program" : "computer science co-op",
+  "year" : "first year",
+  "graduation-date" : "may 2025",
+  "job-searching" : true,
+  "goal" : "to create software that helps the world"
+}
+```
 
 ### What I'm Up To 
 - 🌱 I’m currently learning various machine learning alogorthms in python
