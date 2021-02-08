@@ -1,7 +1,8 @@
 ### Hi there! 👋
 
 ### About Me 
-```{
+```
+{
   "name" : "Anjali Gupta",
   "school" : "university of waterloo",
   "program" : "computer science co-op",
