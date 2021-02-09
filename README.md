@@ -8,7 +8,6 @@
   "school" : "university of waterloo",
   "program" : "computer science co-op",
   "year" : "first year",
-  "graduation-date" : "may 2025",
   "job-searching" : true,
   "goal" : "to create software that helps the world"
 }
