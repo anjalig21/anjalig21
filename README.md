@@ -20,7 +20,7 @@
 
 ### GitHub Stats 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalig21&show_icons=true&theme=dark)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalig21&theme=c&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalig21&theme=h&layout=compact)
 
 ### How to Reach Me
 - 📬 Email: anjaligta@outlook.com
