@@ -14,7 +14,7 @@
 ```
 
 ### What I'm Up To 
-- 🌱 I’m currently learning various machine learning alogorthms in python
+- 🌱 I’m currently learning various machine learning algorthms in python
 - 👯 I’m looking to collaborate with other content creators 
 - ⚡ Fun fact: I love collabrating and playing online games with friends!
 
