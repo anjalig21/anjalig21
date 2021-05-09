@@ -19,7 +19,6 @@
 - ⚡ Fun fact: I love collabrating and playing online games with friends!
 
 ### GitHub Stats 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalig21&show_icons=true&theme="dark")
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalig21&theme="dark"&layout=compact)
 
 ### How to Reach Me
