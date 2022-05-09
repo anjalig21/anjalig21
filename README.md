@@ -7,7 +7,7 @@
   "pronouns" : "she/her",
   "school" : "university of waterloo",
   "program" : "computer science co-op",
-  "year" : "first year",
+  "year" : "third year",
   "job-searching" : true,
   "goal" : "to create software that helps the world"
 }
