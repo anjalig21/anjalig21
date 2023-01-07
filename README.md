@@ -15,9 +15,9 @@
 ```
 
 ### What I'm Up To 
-- 🌱 I’m currently learning various machine learning algorthms in python
-- 👯 I’m looking to collaborate with other content creators 
-- ⚡ Fun fact: I love collabrating and playing online games with friends!
+- 🌱 I’m currently learning various machine learning algorithms in python
+- 👯 I participate in coding challenges and am always open to collaborate on projects
+- 🍣 Fun fact: I love eating sushi!
 
 ### GitHub Stats 
 ![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalig21&layout=compact)
