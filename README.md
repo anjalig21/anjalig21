@@ -9,7 +9,7 @@
   "program" : "computer science co-op",
   "year" : "third year",
   "job-searching" : true,
-  "prev-experience" : ["PointClickCare", "University of Waterloo", "WSIB Innovation Lab"],
+  "prev-experience" : ["Wealthsimple", "PointClickCare", "University of Waterloo", "WSIB Innovation Lab"],
   "goal" : "to create software that helps the world"
 }
 ```
