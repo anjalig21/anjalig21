@@ -21,6 +21,7 @@
 
 ### GitHub Stats 
 ![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalig21)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalig21&layout=compact)
 
 ### How to Reach Me
 - 📬 Email: anjaligta@outlook.com
