@@ -20,7 +20,6 @@
 - 🍣 Fun fact: I love eating sushi!
 
 ### GitHub Stats 
-![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalig21&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalig21&layout=compact)
 
 ### How to Reach Me
