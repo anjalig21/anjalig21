@@ -7,7 +7,7 @@
   "pronouns" : "she/her",
   "school" : "University of waterloo",
   "program" : "computer science co-op",
-  "year" : "third year",
+  "year" : "fourth year",
   "job-searching" : true,
   "prev-experience" : ["Amazon", "Wealthsimple", "PointClickCare", "University of Waterloo", "WSIB Innovation Lab"],
   "goal" : "to create software that helps the world"
