@@ -5,7 +5,7 @@
 {
   "name" : "Anjali Gupta",
   "pronouns" : "she/her",
-  "school" : "University of waterloo",
+  "school" : "University of Waterloo",
   "program" : "computer science co-op",
   "year" : "fourth year",
   "job-searching" : true,
