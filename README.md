@@ -9,7 +9,7 @@
   "program" : "computer science co-op",
   "year" : "fourth year",
   "job-searching" : true,
-  "prev-experience" : ["Amazon", "Wealthsimple", "PointClickCare", "University of Waterloo", "WSIB Innovation Lab"],
+  "prev-experience" : ["Verkada", "Microsoft", "Amazon", "Wealthsimple", "PointClickCare", "WSIB Innovation Lab"],
   "goal" : "to create software that helps the world"
 }
 ```
